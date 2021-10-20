@@ -1,0 +1,67 @@
+.header{
+    background-color: black;
+    color: white;
+    font-size: 14px;
+}
+.Button{
+    background-color: rgb(233, 229, 223);    
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    border: 0;
+    border-radius: 2px;
+    padding: 3px 3px 3px 3px;
+    transition-duration: 0.3s;
+    transition-property: color, background-color;
+} 
+.Button:hover{
+    color: white;
+    background-color:rgb(29, 197, 226);
+}
+.container{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: auto;
+    
+}
+.content1{
+    background-color:rgb(221, 212, 212);
+    width: 15%;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 300px;
+    margin-right: 20px;
+    height: 500px;
+}
+.special{
+    color: rgb(13, 13, 102);
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.special1{
+    color: blue;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+}
+.normal{
+    font-size: 16px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.content2{
+    width: 75%;
+    background-color: rgb(252, 250, 247);
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 1300px;
+    height: 500px;
+}
+.footer{
+    background-color: rgb(30, 132, 201);
+    margin-top: 0px;
+    text-align: center;
+}
